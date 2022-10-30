@@ -1,0 +1,316 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400&display=swap');
+
+body{
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+    background-image: url(car.png); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+.Logo{
+    position: absolute;
+    width: 115px;
+    height: 22px;
+    left: 49px;
+    top: 44px;
+}
+
+.Shop{
+    position: absolute;
+    width: 39px;
+    height: 23px;
+    left: 1196px;
+    top: 44px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+
+.Account{
+    position: absolute;
+    width: 63px;
+    height: 23px;
+    left: 1312px;
+    top: 44px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+
+.Men{
+    position: absolute;
+    width: 42px;
+    height: 23px;
+    left: 1254px;
+    top: 44px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+
+.About{
+    position: absolute;
+    width: 365px;
+    height: 32px;
+    left: 659px;
+    top: 208px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 103.5%;
+    /* or 16px */
+
+
+    color: #000000;
+
+    opacity: 0.4;
+}
+
+.Tesla{
+    position: absolute;
+    width: 118px;
+    height: 45px;
+    left: 314px;
+    top: 150px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 45px;
+    /* identical to box height */
+
+    letter-spacing: 0.295em;
+
+    opacity: 0.4;
+}
+
+.Roadster{
+    position: absolute;
+    width: 391px;
+    height: 120px;
+    left: 253px;
+    top: 150px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 80px;
+    line-height: 120px;
+    /* identical to box height */
+
+    letter-spacing: 0.05em;
+
+    opacity: 0.4;
+}
+
+.ReserveBox{
+    position: absolute;
+    width: 201px;
+    height: 66px;
+    left: 1124px;
+    top: 871px;
+
+    background: #8A031B;
+    border-radius: 100px; 
+}
+
+.Reserve{
+    position: absolute;
+    width: 96px;
+    height: 23px;
+    left: 1177px;
+    top: 892px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.Specs{
+    position: absolute;
+    width: 76px;
+    height: 38px;
+    left: 408px;
+    top: 783px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 38px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.Interior{
+    position: absolute;
+    width: 88px;
+    height: 38px;
+    left: 96px;
+    top: 783px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 38px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.S1{
+    position: absolute;
+    width: 59px;
+    height: 53px;
+    left: 410px;
+    top: 874px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 52px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+    
+}
+
+.S2{
+    position: absolute;
+    width: 147px;
+    height: 53px;
+    left: 589px;
+    top: 874px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 52px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+    
+}
+
+.S3{
+    position: absolute;
+    width: 109px;
+    height: 53px;
+    left: 856px;
+    top: 874px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 52px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+    
+}
+
+.Ss1{
+    position: absolute;
+    width: 56px;
+    height: 15px;
+    left: 411px;
+    top: 916px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 15px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+    opacity: 0.5;
+}
+
+.Ss2{
+    position: absolute;
+    width: 54px;
+    height: 15px;
+    left: 592px;
+    top: 919px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 15px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+    opacity: 0.5;
+}
+
+.Ss3{
+    position: absolute;
+    width: 33px;
+    height: 15px;
+    left: 858px;
+    top: 919px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 15px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+    
+    opacity: 0.5;
+}
